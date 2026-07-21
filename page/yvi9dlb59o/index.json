@@ -1,0 +1,39 @@
+{
+  "name": {
+    "tr": "Kurumsal"
+  },
+  "status": "play",
+  "category": "",
+  "id": "yvi9dlb59o",
+  "url": "",
+  "img": "kurumsal.jpg",
+  "path": "kurumsal",
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [
+      "t1in01",
+      "tp5jo4"
+    ],
+    "footer": []
+  },
+  "pathnext": "hakkimizda",
+  "description": {
+    "tr": "Arteng Enerji kurumsal kimlik, misyon, vizyon ve kalite yaklaşımı."
+  },
+  "spot": {
+    "tr": "Gaziantep merkezli enerji altyapısı müteahhiti."
+  },
+  "desc": {},
+  "title": {
+    "tr": "Kurumsal"
+  },
+  "keyword": {
+    "tr": "arteng enerji kurumsal, hakkımızda, misyon, vizyon"
+  },
+  "text": {
+    "tr": "<p>Arteng Enerji kurumsal yapısı, misyon ve vizyonu ile kalite odaklı enerji altyapısı müteahhitliği sunar. Hakkımızda, misyon, vizyon ve kalite politikamız hakkında bilgi alın.</p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-07-21"
+}

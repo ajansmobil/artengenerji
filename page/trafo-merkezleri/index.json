@@ -1,0 +1,34 @@
+{
+  "id": "trafo-merkezleri",
+  "path": "trafo-merkezleri",
+  "name": {
+    "tr": "Trafo Merkezleri"
+  },
+  "title": {
+    "tr": "Trafo Merkezleri — Arteng Enerji"
+  },
+  "description": {
+    "tr": "Arteng Enerji, trafo merkezi kurulumu ve modernizasyonunda saha organizasyonu, test ve devreye alma süreçlerini iş güvenliği standartlarına uygun yürütür. Gaziantep ve çevresinde iletim-dağıtım projelerinde güvenilir müteahhitlik sunar."
+  },
+  "keyword": {
+    "tr": "arteng enerji, trafo merkezleri, gaziantep"
+  },
+  "img": "trafo-merkezleri.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Trafo Merkezleri</h2><p>Arteng Enerji, trafo merkezi kurulumu ve modernizasyonunda saha organizasyonu, test ve devreye alma süreçlerini iş güvenliği standartlarına uygun yürütür. Gaziantep ve çevresinde iletim-dağıtım projelerinde güvenilir müteahhitlik sunar.</p><p>Trafo merkezleri, enerji iletim ve dağıtım ağının kalbidir. Arteng Enerji; AG/OG ekipman montajı, koruma ve otomasyon sistemleri ile saha kablolama işlerinde deneyimli ekiplerle çalışır.</p><p><a href=\"/tr/iletisim/\">Teklif ve keşif için iletişim</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-07-21",
+  "index": 0,
+  "category": "",
+  "icon": "electrical_services",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  }
+}

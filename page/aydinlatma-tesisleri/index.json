@@ -1,0 +1,34 @@
+{
+  "id": "aydinlatma-tesisleri",
+  "path": "aydinlatma-tesisleri",
+  "name": {
+    "tr": "Aydınlatma Tesisleri"
+  },
+  "title": {
+    "tr": "Aydınlatma Tesisleri — Arteng Enerji"
+  },
+  "description": {
+    "tr": "Yol, sanayi ve kamusal alan aydınlatma tesislerinde direk montajı, kablolama ve kontrol sistemleri Arteng Enerji tarafından uygulanır."
+  },
+  "keyword": {
+    "tr": "arteng enerji, aydinlatma tesisleri, gaziantep"
+  },
+  "img": "aydinlatma-tesisleri.jpg",
+  "status": "play",
+  "text": {
+    "tr": "<h2>Aydınlatma Tesisleri</h2><p>Yol, sanayi ve kamusal alan aydınlatma tesislerinde direk montajı, kablolama ve kontrol sistemleri Arteng Enerji tarafından uygulanır.</p><p>Aydınlatma projelerinde LED armatür montajı, otomasyon ve topraklama sistemleri kurulur.</p><p><a href=\"/tr/iletisim/\">Teklif ve keşif için iletişim</a></p>"
+  },
+  "update": "2026-07-21",
+  "date": "2026-07-21",
+  "index": 6,
+  "category": "",
+  "icon": "electrical_services",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  }
+}

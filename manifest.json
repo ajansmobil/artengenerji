@@ -1,0 +1,29 @@
+{
+  "name": "Arteng Enerji",
+  "short_name": "Arteng Enerj",
+  "description": "Arteng Enerji — Gaziantep merkezli elektrik enerjisi iletim, dağıtım ve yenilenebilir altyapı çözümleri. Trafo merkezleri, enerji iletim hatları, GES/RES ve aydınlatma tesisleri.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

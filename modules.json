@@ -1,0 +1,632 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "bgcolor": "#1B3A6B",
+        "color": "#ffffff",
+        "activebgcolor": "#2E6BFF",
+        "activecolor": "#ffffff"
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "id": "k4t90c",
+      "data": [
+        {
+          "img": "arteng-slider-trafo.jpg"
+        },
+        {
+          "img": "arteng-slider-iletim.jpg"
+        },
+        {
+          "img": "arteng-slider-ges.jpg"
+        }
+      ],
+      "desing": {
+        "delay": 3000
+      },
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "index": 1
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#1B3A6B",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "email",
+          "text": "info@artengenerji.com",
+          "url": "mailto:info@artengenerji.com"
+        },
+        {
+          "icon": "map",
+          "text": "Değirmiçem Mah. Ali Karakılıç Sok. Fırat Apt. No: 23 C Şehitkamil / Gaziantep"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#ffffff",
+        "color": "#1B3A6B",
+        "img": "map.png",
+        "externalUrl": "https://maps.app.goo.gl/inqUUqip1nVx16iK9"
+      },
+      "version": "1.0.0",
+      "icon": "map",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "tp5jo4",
+      "desing": {
+        "height": "220",
+        "opacity": "0.55",
+        "font-size": "32",
+        "backgroundcolor": "#1B3A6B",
+        "menu-active": "#2E6BFF",
+        "textcolor": "#E9F3FB",
+        "bgcolor": "#F5F8FC",
+        "color": "#1B3A6B",
+        "colortitle": "#1B3A6B",
+        "coloractive": "#2E6BFF",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(27, 58, 107, 0.10)"
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "bgcolor": "#1B3A6B",
+        "color": "#fff",
+        "img": "logo.png",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "index": 5
+    },
+    {
+      "id": "t1ls01",
+      "name": "Ana Sayfa Liste",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "page",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "index": 6
+    },
+    {
+      "id": "t1in01",
+      "name": "Tanitim",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "version": "1.1.0",
+      "icon": "business",
+      "desing": {
+        "name": {
+          "tr": "Arteng Enerji",
+          "en": "Arteng Energy"
+        },
+        "description": {
+          "tr": "Gaziantep merkezli Arteng Enerji; trafo merkezleri, enerji iletim ve dağıtım hatları ile güneş ve rüzgar santralleri ve aydınlatma tesislerinde güvenilir müteahhitlik sunar.",
+          "en": "Arteng Energy — electrical infrastructure contractor."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Vision"
+        },
+        "spot2": {
+          "tr": "Enerji altyapısında güvenilir, sürdürülebilir ve yerel bir çözüm ortağı olmak.",
+          "en": "Trusted energy infrastructure partner."
+        },
+        "icon2": "visibility",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Mission"
+        },
+        "spot3": {
+          "tr": "Projeleri iş güvenliği, kalite ve şeffaf iletişimle zamanında teslim etmek.",
+          "en": "Deliver projects safely and on time."
+        },
+        "icon3": "flag",
+        "img": "index.jpg",
+        "bgcolor": "#1B3A6B",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Arteng Enerji",
+          "en": "Arteng Energy"
+        }
+      },
+      "index": 7
+    },
+    {
+      "id": "t1st01",
+      "name": "İstatistik",
+      "path": "stats-1",
+      "local": "body",
+      "category": "stats",
+      "version": "1.0.0",
+      "icon": "monitoring",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #1B3A6B 0%, #1B3A6Bdd 100%)",
+        "numbercolor": "#2E6BFF",
+        "labelcolor": "#e2e8f0"
+      },
+      "data": [
+        {
+          "number": 7,
+          "suffix": "",
+          "label": {
+            "tr": "Enerji hizmet kategorisi",
+            "en": "Service areas"
+          },
+          "icon": "electrical_services"
+        },
+        {
+          "number": 1,
+          "suffix": "",
+          "label": {
+            "tr": "Gaziantep — bölgesel odak",
+            "en": "Gaziantep focus"
+          },
+          "icon": "location_on"
+        },
+        {
+          "number": 3,
+          "suffix": "",
+          "label": {
+            "tr": "İletim · dağıtım · yenilenebilir altyapı",
+            "en": "Transmission · distribution · renewables"
+          },
+          "icon": "bolt"
+        }
+      ],
+      "index": 8
+    },
+    {
+      "id": "t1ct01",
+      "name": "CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #1B3A6B 0%, #1B3A6Bee 100%)",
+        "btnbg": "#2E6BFF",
+        "btncolor": "#ffffff",
+        "title": {
+          "tr": "Enerji altyapınız için güvenilir ortak",
+          "en": "Reliable energy infrastructure partner"
+        },
+        "description": {
+          "tr": "Trafo, iletim, dağıtım ve yenilenebilir projeleriniz için keşif ve teklif talebinde bulunun.",
+          "en": "Contact us for your energy projects."
+        },
+        "btn1Text": {
+          "tr": "İletişim",
+          "en": "Contact"
+        },
+        "btn1Url": "iletisim",
+        "btn2Text": {
+          "tr": "Hizmetler",
+          "en": "Services"
+        },
+        "btn2Url": "hizmetler"
+      },
+      "index": 9
+    },
+    {
+      "id": "t1plpr",
+      "name": "Hizmetler Liste",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "products",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "index": 10
+    },
+    {
+      "id": "aeval01",
+      "name": "Değerler",
+      "path": "values-1",
+      "local": "body",
+      "category": "values",
+      "version": "1.0.0",
+      "icon": "diamond",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#F5F8FC",
+        "accent": "#2E6BFF",
+        "titlecolor": "#1B3A6B",
+        "textcolor": "#475569",
+        "cardbg": "#ffffff",
+        "badge": {
+          "tr": "Değerlerimiz",
+          "en": "Our Values"
+        },
+        "title": {
+          "tr": "Güvenilir enerji müteahhidi",
+          "en": "Trusted energy contractor"
+        },
+        "description": {
+          "tr": "Arteng Enerji; ilke, deneyim, kalite ve vizyon ile Gaziantep ve bölgede enerji altyapısı projeleri yürütür.",
+          "en": "Arteng Energy delivers infrastructure projects with principle and quality."
+        }
+      },
+      "data": [
+        {
+          "icon": "balance",
+          "name": {
+            "tr": "İlkeli",
+            "en": "Principled"
+          },
+          "description": {
+            "tr": "İş güvenliği ve mevzuata uygun, şeffaf sözleşme yönetimi.",
+            "en": "Safety-first, compliant and transparent contracting."
+          }
+        },
+        {
+          "icon": "engineering",
+          "name": {
+            "tr": "Deneyimli",
+            "en": "Experienced"
+          },
+          "description": {
+            "tr": "Trafo, iletim hattı, dağıtım ve GES/RES saha tecrübesi.",
+            "en": "Field experience in transformers, lines and renewables."
+          }
+        },
+        {
+          "icon": "verified",
+          "name": {
+            "tr": "Kaliteli",
+            "en": "Quality-driven"
+          },
+          "description": {
+            "tr": "Test, devreye alma ve kalite kontrol süreçlerinde disiplin.",
+            "en": "Disciplined testing and commissioning."
+          }
+        },
+        {
+          "icon": "visibility",
+          "name": {
+            "tr": "Vizyonlu",
+            "en": "Visionary"
+          },
+          "description": {
+            "tr": "Sürdürülebilir enerji altyapısına uzun vadeli katkı.",
+            "en": "Long-term contribution to sustainable infrastructure."
+          }
+        }
+      ],
+      "index": 11
+    },
+    {
+      "id": "aehiz01",
+      "name": "Ana Sayfa Hizmet Grid",
+      "path": "hizmet-grid-1",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#ffffff",
+        "accent": "#2E6BFF",
+        "titlecolor": "#1B3A6B",
+        "textcolor": "#475569",
+        "badge": {
+          "tr": "Uzmanlık",
+          "en": "Expertise"
+        },
+        "title": {
+          "tr": "Hizmetlerimiz",
+          "en": "Our Services"
+        },
+        "description": {
+          "tr": "Elektrik iletimi, dağıtımı ve yenilenebilir enerji altyapısında uçtan uca müteahhitlik.",
+          "en": "End-to-end contracting for power infrastructure."
+        },
+        "page": "products",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "16 / 10",
+        "linkText": {
+          "tr": "Detaylı bilgi",
+          "en": "Learn more"
+        }
+      },
+      "index": 12
+    },
+    {
+      "id": "aefaq01",
+      "name": "SSS",
+      "path": "faq-1",
+      "local": "body",
+      "category": "faq",
+      "version": "1.0.0",
+      "icon": "quiz",
+      "desing": {
+        "max": "900px",
+        "bgcolor": "#F5F8FC",
+        "cardbg": "#ffffff",
+        "bordercolor": "#e2e8f0",
+        "titlecolor": "#1B3A6B",
+        "textcolor": "#475569",
+        "accent": "#2E6BFF",
+        "badge": {
+          "tr": "SSS",
+          "en": "FAQ"
+        },
+        "title": {
+          "tr": "Sıkça sorulan sorular",
+          "en": "Frequently asked questions"
+        },
+        "description": {
+          "tr": "Trafo, GES ve teklif süreçleri hakkında kısa yanıtlar.",
+          "en": "Quick answers on transformers, solar and proposals."
+        }
+      },
+      "data": [
+        {
+          "question": {
+            "tr": "Trafo merkezi projelerinde hangi hizmetleri veriyorsunuz?",
+            "en": "What do you deliver for substation projects?"
+          },
+          "answer": {
+            "tr": "Saha organizasyonu, montaj, test, koruma ayarları ve devreye alma süreçlerini iş güvenliği standartlarına uygun yürütürüz.",
+            "en": "We handle site works, assembly, testing and commissioning to safety standards."
+          }
+        },
+        {
+          "question": {
+            "tr": "Güneş enerji santrali (GES) kurulumu yapıyor musunuz?",
+            "en": "Do you build solar power plants?"
+          },
+          "answer": {
+            "tr": "Evet. Panel montajı, kablolama, inverter odası ve SCADA entegrasyonu Arteng Enerji iş kapsamındadır.",
+            "en": "Yes — mounting, cabling, inverter rooms and SCADA integration."
+          }
+        },
+        {
+          "question": {
+            "tr": "Teklif almak için ne göndermem gerekir?",
+            "en": "What do you need for a quote?"
+          },
+          "answer": {
+            "tr": "Proje lokasyonu, güç/kapasite bilgisi, varsa tek hat şeması ve hedef teslim tarihi ile iletişim formundan bize ulaşmanız yeterlidir.",
+            "en": "Share location, capacity, single-line diagram if available and target date via contact."
+          }
+        },
+        {
+          "question": {
+            "tr": "Gaziantep dışındaki illerde çalışıyor musunuz?",
+            "en": "Do you work outside Gaziantep?"
+          },
+          "answer": {
+            "tr": "Merkezimiz Şehitkamil / Gaziantep olmakla birlikte Güneydoğu ve çevre illerde saha projeleri yürütüyoruz.",
+            "en": "Based in Gaziantep; we execute field projects across the region."
+          }
+        },
+        {
+          "question": {
+            "tr": "İletişim için hangi kanalları kullanabilirim?",
+            "en": "How can I contact you?"
+          },
+          "answer": {
+            "tr": "info@artengenerji.com adresine e-posta gönderebilir veya iletişim sayfasındaki harita linki ile adresimize ulaşabilirsiniz.",
+            "en": "Email info@artengenerji.com or use the map on our contact page."
+          }
+        }
+      ],
+      "index": 13
+    },
+    {
+      "id": "aecta02",
+      "name": "CTA Kart",
+      "path": "cta-2",
+      "local": "body",
+      "category": "cta",
+      "version": "1.0.0",
+      "icon": "ads_click",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#F5F8FC",
+        "cardbg": "#ffffff",
+        "bordercolor": "rgba(27, 58, 107, 0.12)",
+        "titlecolor": "#1B3A6B",
+        "textcolor": "#475569",
+        "accent": "#2E6BFF",
+        "icon": "bolt",
+        "title": {
+          "tr": "Projeniz için keşif ve teklif",
+          "en": "Site survey and proposal"
+        },
+        "description": {
+          "tr": "Trafo, iletim, dağıtım veya GES projenizi birlikte planlayalım; uzman ekibimiz size dönüş yapsın.",
+          "en": "Let's plan your infrastructure project together."
+        },
+        "btnText": {
+          "tr": "İletişime geçin",
+          "en": "Contact us"
+        },
+        "btnUrl": "iletisim",
+        "note": {
+          "tr": "Gaziantep merkez · info@artengenerji.com",
+          "en": "Gaziantep · info@artengenerji.com"
+        }
+      },
+      "index": 14
+    },
+    {
+      "id": "aeftr05",
+      "name": "Footer Zengin",
+      "path": "footer-5",
+      "local": "footer",
+      "category": "footer",
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "desing": {
+        "color": "#1B3A6B",
+        "footer_bg": "#1B3A6B",
+        "footer_text": "#FFFFFF",
+        "footer_bottom_bg": "#152d52",
+        "footer_link_hover": "#2E6BFF",
+        "social_bg": "#152d52",
+        "logo": "logo.png",
+        "responsive_grid": true,
+        "columns": 4,
+        "contact_info": true,
+        "social_media": false,
+        "category_links": true,
+        "newsletter": false,
+        "web_name": {
+          "tr": "Arteng Enerji",
+          "en": "Arteng Energy"
+        },
+        "description": {
+          "tr": "Gaziantep merkezli elektrik ve enerji altyapısı müteahhidi — trafo, iletim, dağıtım ve yenilenebilir projeler.",
+          "en": "Gaziantep-based electrical infrastructure contractor."
+        },
+        "corporate_title": {
+          "tr": "KURUMSAL",
+          "en": "CORPORATE"
+        },
+        "categories_title": {
+          "tr": "HİZMETLER",
+          "en": "SERVICES"
+        },
+        "contact_title": {
+          "tr": "İLETİŞİM",
+          "en": "CONTACT"
+        },
+        "working_hours": {
+          "tr": "Hafta içi 08:00 – 18:00",
+          "en": "Weekdays 08:00 – 18:00"
+        },
+        "phone_number": "",
+        "email_address": "info@artengenerji.com",
+        "follow_us": {
+          "tr": "Bizi Takip Edin",
+          "en": "Follow Us"
+        },
+        "copyright": {
+          "tr": "© 2026 Arteng Enerji — Tüm hakları saklıdır.",
+          "en": "© 2026 Arteng Energy — All rights reserved."
+        },
+        "jetkur_text": {
+          "tr": "Arteng Enerji — elektrik ve enerji altyapısı müteahhitlik hizmetleri.",
+          "en": "Arteng Energy — electrical infrastructure contracting."
+        },
+        "ssl_text": {
+          "tr": "Kişisel verileriniz 6698 sayılı KVKK kapsamında korunur.",
+          "en": "Your personal data is processed under applicable privacy law."
+        }
+      },
+      "data": {
+        "corporate_links": [
+          {
+            "name": "Hakkımızda",
+            "url": "hakkimizda"
+          },
+          {
+            "name": "Misyon",
+            "url": "misyon"
+          },
+          {
+            "name": "Vizyon",
+            "url": "vizyon"
+          },
+          {
+            "name": "Kalite Politikası",
+            "url": "kalitepolitikamiz"
+          },
+          {
+            "name": "İletişim",
+            "url": "iletisim"
+          }
+        ],
+        "category_links": [
+          {
+            "name": "Trafo Merkezleri",
+            "url": "trafo-merkezleri"
+          },
+          {
+            "name": "Enerji İletim Hatları",
+            "url": "enerji-iletim-hatlari"
+          },
+          {
+            "name": "Güneş Enerji Sistemleri",
+            "url": "gunes-enerji-sistemleri"
+          },
+          {
+            "name": "Rüzgar Enerji Santralleri",
+            "url": "ruzgar-enerji-santralleri"
+          }
+        ],
+        "social_media_links": []
+      },
+      "index": 15
+    }
+  ]
+}

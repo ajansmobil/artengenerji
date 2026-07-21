@@ -1,0 +1,33 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Arteng Enerji — Gaziantep merkezli elektrik enerjisi iletim, dağıtım ve yenilenebilir altyapı çözümleri. Trafo merkezleri, enerji iletim hatları, GES/RES ve aydınlatma tesisleri."
+  },
+  "keyword": {
+    "tr": "arteng enerji, elektrik, trafo merkezi, enerji iletim, güneş enerjisi, gaziantep, elektrik dağıtım, aydınlatma"
+  },
+  "category": "Kurumsal",
+  "name": "Arteng Enerji",
+  "domain": "artengenerji.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "address": "Değirmiçem Mah. Ali Karakılıç Sok. Fırat Apt. No: 23 C Şehitkamil / Gaziantep",
+  "email": "info@artengenerji.com",
+  "phone": "",
+  "mobile": ""
+}

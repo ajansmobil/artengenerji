@@ -1,0 +1,180 @@
+{
+  "name": "Hizmetler",
+  "path": "products",
+  "description": {
+    "tr": "Arteng Enerji elektrik ve enerji altyapısı müteahhitlik hizmetleri."
+  },
+  "keyword": {
+    "tr": "trafo, enerji iletim, GES, RES, dağıtım, aydınlatma, gaziantep"
+  },
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Trafo Merkezleri"
+      },
+      "id": "trafo-merkezleri",
+      "index": 0,
+      "path": "trafo-merkezleri",
+      "category": "",
+      "img": "trafo-merkezleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arteng Enerji, trafo merkezi kurulumu ve modernizasyonunda saha organizasyonu, test ve devreye alma süreçlerini iş güvenliği standartlarına uygun yürütür. Gaziantep ve çevresinde iletim-dağıtım projelerinde güvenilir müteahhitlik sunar."
+      }
+    },
+    {
+      "name": {
+        "tr": "Enerji İletim Hatları"
+      },
+      "id": "enerji-iletim-hatlari",
+      "index": 1,
+      "path": "enerji-iletim-hatlari",
+      "category": "",
+      "img": "enerji-iletim-hatlari.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Yüksek gerilim enerji iletim hatlarında direk temeli, conductor gerilimi, koruma iletkeni ve saha bağlantıları Arteng Enerji tarafından planlı şekilde uygulanır."
+      }
+    },
+    {
+      "name": {
+        "tr": "Güneş Enerji Sistemleri"
+      },
+      "id": "gunes-enerji-sistemleri",
+      "index": 2,
+      "path": "gunes-enerji-sistemleri",
+      "category": "",
+      "img": "gunes-enerji-sistemleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "GES kurulumlarında panel montajı, inverter odası, kablolama ve SCADA entegrasyonu Arteng Enerji iş kapsamında yer alır."
+      }
+    },
+    {
+      "name": {
+        "tr": "Rüzgar Enerji Santralleri"
+      },
+      "id": "ruzgar-enerji-santralleri",
+      "index": 3,
+      "path": "ruzgar-enerji-santralleri",
+      "category": "",
+      "img": "ruzgar-enerji-santralleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "RES altyapısında saha yolları, kablo kanalları, topraklama ve bağlantı noktalarında Arteng Enerji elektrik altyapı işlerini üstlenir."
+      }
+    },
+    {
+      "name": {
+        "tr": "Elektrik Dağıtım Tesisleri"
+      },
+      "id": "elektrik-dagitim-tesisleri",
+      "index": 4,
+      "path": "elektrik-dagitim-tesisleri",
+      "category": "",
+      "img": "elektrik-dagitim-tesisleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Elektrik dağıtım tesislerinde switchgear montajı, busbar bağlantıları ve saha testleri Arteng Enerji ekibi tarafından yürütülür."
+      }
+    },
+    {
+      "name": {
+        "tr": "Elektrik Dağıtım Merkezleri"
+      },
+      "id": "elektrik-dagitim-merkezleri",
+      "index": 5,
+      "path": "elektrik-dagitim-merkezleri",
+      "category": "",
+      "img": "elektrik-dagitim-merkezleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Dağıtım merkezi yeni kurulum ve rehabilitasyon projelerinde Arteng Enerji, saha elektrik işlerini programlı teslimat ile tamamlar."
+      }
+    },
+    {
+      "name": {
+        "tr": "Aydınlatma Tesisleri"
+      },
+      "id": "aydinlatma-tesisleri",
+      "index": 6,
+      "path": "aydinlatma-tesisleri",
+      "category": "",
+      "img": "aydinlatma-tesisleri.jpg",
+      "status": "play",
+      "icon": "electrical_services",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Yol, sanayi ve kamusal alan aydınlatma tesislerinde direk montajı, kablolama ve kontrol sistemleri Arteng Enerji tarafından uygulanır."
+      }
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "t1plpr"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}
