@@ -47,7 +47,7 @@
       "category": "contact",
       "id": "fhxr98",
       "desing": {
-        "color": "#1B3A6B",
+        "color": "#2E6BFF",
         "name": {
           "tr": "Bize Ulaşın"
         },
@@ -58,6 +58,11 @@
           "icon": "email",
           "text": "info@artengenerji.com",
           "url": "mailto:info@artengenerji.com"
+        },
+        {
+          "icon": "phone",
+          "text": "+90 532 499 07 23",
+          "url": "tel:+905324990723"
         },
         {
           "icon": "map",
@@ -564,7 +569,7 @@
           "tr": "Hafta içi 08:00 – 18:00",
           "en": "Weekdays 08:00 – 18:00"
         },
-        "phone_number": "",
+        "phone_number": "+90 532 499 07 23",
         "email_address": "info@artengenerji.com",
         "follow_us": {
           "tr": "Bizi Takip Edin",
