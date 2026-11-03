@@ -1,7 +1,9 @@
 {
   "data": [
     {
-      "name": "Sayfalar",
+      "name": {
+        "tr": "Sayfalar"
+      },
       "path": "page",
       "desc": [],
       "data": [],
@@ -19,7 +21,9 @@
       }
     },
     {
-      "name": "Ürünler",
+      "name": {
+        "tr": "Ürünler"
+      },
       "path": "products",
       "desc": [],
       "data": [],
@@ -38,7 +42,9 @@
       }
     },
     {
-      "name": "Kurumsal",
+      "name": {
+        "tr": "Kurumsal"
+      },
       "path": "kurumsal",
       "desc": [],
       "data": [],

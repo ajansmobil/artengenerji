@@ -155,6 +155,27 @@
       },
       "index": 7,
       "icon": "home"
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Bu politika, Arteng Enerji tarafından işletilen artengenerji.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…"
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ocsq5p"
+        ],
+        "footer": []
+      },
+      "index": 8
     }
   ],
   "index": 2,

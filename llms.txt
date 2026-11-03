@@ -1,0 +1,33 @@
+# Arteng Enerji
+
+> Arteng Enerji — Gaziantep merkezli elektrik enerjisi iletim, dağıtım ve yenilenebilir altyapı çözümleri. Trafo merkezleri, enerji iletim hatları, GES/RES ve aydınlatma tesisleri.
+
+Web: https://artengenerji.com/tr/ · Adres: Değirmiçem Mah. Ali Karakılıç Sok. Fırat Apt. No: 23 C Şehitkamil / Gaziantep · Telefon: +90 532 499 07 23 · E-posta: info@artengenerji.com
+
+## Sayfalar
+- [Arteng Enerji](https://artengenerji.com/tr/): Arteng Enerji — Gaziantep merkezli elektrik enerjisi iletim, dağıtım ve yenilenebilir altyapı çözümleri.
+- [Kurumsal](https://artengenerji.com/tr/hakkimizda/): Arteng Enerji kurumsal kimlik, misyon, vizyon ve kalite yaklaşımı.
+- [Hizmetler](https://artengenerji.com/tr/hizmetler/): Trafo merkezleri, enerji iletim ve dağıtım hatları, GES/RES ve aydınlatma tesislerinde müteahhitlik hizmetleri.
+- [İletişim](https://artengenerji.com/tr/iletisim/): Adres, e-posta ve harita üzerinden Arteng Enerji ile iletişime geçin.
+- [Hakkımızda](https://artengenerji.com/tr/hakkimizda/)
+- [Misyon](https://artengenerji.com/tr/misyon/)
+- [Vizyon](https://artengenerji.com/tr/vizyon/)
+- [Kalite Politikamız](https://artengenerji.com/tr/kalitepolitikamiz/)
+- [Gizlilik Politikası](https://artengenerji.com/tr/gizlilikpolitikasi/)
+- [Kişisel Veriler](https://artengenerji.com/tr/kisiselveriler/)
+- [Kullanıcı Hakları](https://artengenerji.com/tr/kullanicahaklari/)
+- [Yasal Uyarı](https://artengenerji.com/tr/yasaluyari/)
+- [Çerez Politikası](https://artengenerji.com/tr/cerez-politikasi/): Bu politika, Arteng Enerji tarafından işletilen artengenerji.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+
+## Urunler
+- [Trafo Merkezleri](https://artengenerji.com/tr/trafo-merkezleri/): Arteng Enerji, trafo merkezi kurulumu ve modernizasyonunda saha organizasyonu, test ve devreye alma süreçlerini iş güvenliği standartlarına uygun yürütür.
+- [Enerji İletim Hatları](https://artengenerji.com/tr/enerji-iletim-hatlari/): Yüksek gerilim enerji iletim hatlarında direk temeli, conductor gerilimi, koruma iletkeni ve saha bağlantıları Arteng Enerji tarafından planlı şekilde uygulanır.
+- [Güneş Enerji Sistemleri](https://artengenerji.com/tr/gunes-enerji-sistemleri/): GES kurulumlarında panel montajı, inverter odası, kablolama ve SCADA entegrasyonu Arteng Enerji iş kapsamında yer alır.
+- [Rüzgar Enerji Santralleri](https://artengenerji.com/tr/ruzgar-enerji-santralleri/): RES altyapısında saha yolları, kablo kanalları, topraklama ve bağlantı noktalarında Arteng Enerji elektrik altyapı işlerini üstlenir.
+- [Elektrik Dağıtım Tesisleri](https://artengenerji.com/tr/elektrik-dagitim-tesisleri/): Elektrik dağıtım tesislerinde switchgear montajı, busbar bağlantıları ve saha testleri Arteng Enerji ekibi tarafından yürütülür.
+- [Elektrik Dağıtım Merkezleri](https://artengenerji.com/tr/elektrik-dagitim-merkezleri/): Dağıtım merkezi yeni kurulum ve rehabilitasyon projelerinde Arteng Enerji, saha elektrik işlerini programlı teslimat ile tamamlar.
+- [Aydınlatma Tesisleri](https://artengenerji.com/tr/aydinlatma-tesisleri/): Yol, sanayi ve kamusal alan aydınlatma tesislerinde direk montajı, kablolama ve kontrol sistemleri Arteng Enerji tarafından uygulanır.
+
+## Diger
+- [sitemap.xml](https://artengenerji.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://artengenerji.com/llms-full.txt): sayfa govdeleri duz metin
